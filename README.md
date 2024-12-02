@@ -21,6 +21,8 @@ Project explored in PostgreSQL.
 
 - Calculated total spent across countries.
 
+- Aggregated functions like AVG, COUNT,AND SUM are used.
+
 - Used SQL techniques like JOINs, GROUP BY, WITH as subquery statements for complex analysis.
 
 
