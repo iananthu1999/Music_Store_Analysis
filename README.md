@@ -7,6 +7,8 @@ This project involved performing extensive analysis on music_albums to uncover i
 
 I utilized SQL to explore the data and answer key business questions to derive actionable insights.
 
+Project explored in PostgreSQL.
+
 # Task Performed
 
 - Performed general data exploration and validation checks on the music dataset.
